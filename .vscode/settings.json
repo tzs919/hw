@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "__bit_reference": "c",
+        "algorithm": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "unordered_map": "c",
+        "unistd.h": "c",
+        "__locale": "c",
+        "inet.h": "c"
+    }
+}
