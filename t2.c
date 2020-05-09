@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int add(int, int); //原型
+int add(int, int); //原型zzz
 
 int main(int argc, char *argv[])
 {

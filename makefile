@@ -11,5 +11,6 @@ t2.o:t2.c
 clean:
 	rm *.o hw
 
+
 exec:
 	cd /codec/temp;pwd
