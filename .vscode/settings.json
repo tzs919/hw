@@ -8,6 +8,7 @@
         "unordered_map": "c",
         "unistd.h": "c",
         "__locale": "c",
-        "inet.h": "c"
+        "inet.h": "c",
+        "stdlib.h": "c"
     }
 }
